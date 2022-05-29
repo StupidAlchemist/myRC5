@@ -14,7 +14,7 @@ void decodefile(unsigned char *key){
 		printf("Funtcion terminated\n");
 		abort();
 	}
-	output = fopen("../files/decodecoutput.txt", "w");
+	output = fopen("../files/decodedoutput.txt", "w");
 	if(output == 0){
 		printf("Can\'t open output file\n");
 		printf("Function terminated\n");
