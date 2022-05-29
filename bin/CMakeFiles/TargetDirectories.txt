@@ -1,0 +1,4 @@
+/home/yura/dev/codec/bin/CMakeFiles/myRC5.src.dir
+/home/yura/dev/codec/bin/CMakeFiles/myRC5.main.dir
+/home/yura/dev/codec/bin/CMakeFiles/edit_cache.dir
+/home/yura/dev/codec/bin/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/codec.main.dir/src/main.c.o -o codec.main  -Wl,-rpath,/home/yura/dev/codec/bin libcodec.so 

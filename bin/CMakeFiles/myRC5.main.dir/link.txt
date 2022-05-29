@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/myRC5.main.dir/src/main.c.o -o myRC5.main  -Wl,-rpath,/home/yura/dev/codec/bin libmyRC5.src.so 
