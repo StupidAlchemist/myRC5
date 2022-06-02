@@ -38,7 +38,6 @@ void encodefile(unsigned char *key){
 	}
 	char inbuf[bufsize + 1];
 	char outbuf[bufsize + 1];
-	size_t buf;
 	inbuf[bufsize] = '\0';
 	outbuf[bufsize] = '\0';
 	for(size_t i = 0; i < inputsize; i += bufsize){
